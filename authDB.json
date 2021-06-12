@@ -1,0 +1,12 @@
+{
+    "profiles": [
+        {
+            "username": "mahesh",
+            "password": "123Testing",
+            "age": "34",
+            "gender": "male",
+            "height": 62,
+            "weight": 188
+        }
+    ]
+}
